@@ -1,0 +1,6 @@
+{
+  "name": "Helpdesk SLA and Wait Time Dashboard",
+  "description": "Real-time ticket wait time forecasting, KPI highlights, historical trends, SLA breach drilldown, and AI agent allocation chat assistant connected with N8N pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
